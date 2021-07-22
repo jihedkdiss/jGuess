@@ -1,12 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
 
   <h3 align="center">jGuess</h3>
@@ -97,19 +88,3 @@ Distributed under the GNU General Public License. See `LICENSE` for more informa
 Jihed Kdiss - [@thisisjihedkdiss](https://facebook.com/thisisjihedkdiss) - jihedkdiss@outlook.com
 
 Project Link: [https://github.com/jihedkdiss/jGuess](https://github.com/jihedkdiss/jGuess)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jihedkdiss/jGuess.svg?style=for-the-badge
-[contributors-url]: https://github.com/jihedkdiss/jGuess/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jihedkdiss/jGuess.svg?style=for-the-badge
-[forks-url]: https://github.com/jihedkdiss/jGuess/network/members
-[stars-shield]: https://img.shields.io/github/stars/jihedkdiss/jGuess.svg?style=for-the-badge
-[stars-url]: https://github.com/jihedkdiss/jGuess/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jihedkdiss/jGuess.svg?style=for-the-badge
-[issues-url]: https://github.com/jihedkdiss/jGuess/issues
-[license-shield]: https://img.shields.io/github/license/jihedkdiss/jGuess.svg?style=for-the-badge
-[license-url]: https://github.com/jihedkdiss/jGuess/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jihedkdiss
