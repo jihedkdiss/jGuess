@@ -42,6 +42,9 @@ Internet access is not required. I am not responsible for any damages done to yo
 Bug reports, suggestions and tips are always welcome!
 Star this repository! 🌟
 
+### Features
+
+* Nothing special, it just works the way it's supposed to do :)
 
 ### Built With
 
